@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.streamlit/
+data/chroma_db/
+data/resumes/
+outputs/
+*.pyc
+.streamlit/secrets.toml
